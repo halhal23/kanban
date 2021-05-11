@@ -23,6 +23,10 @@ export function App() {
             cards={[
               { id: 'd', text: '顔を洗う👐' },
               { id: 'e', text: '歯を磨く🦷' },
+              {
+                id: 'z',
+                text: 'ランニングをしているhttps://github.com/ 今日はどうする',
+              },
             ]}
           />
           <Column title="Waiting" cards={[]} />
