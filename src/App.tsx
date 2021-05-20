@@ -52,7 +52,7 @@ const Header = styled(_Header)`
 
 const MainArea = styled.div`
   height: 100%;
-  background: #777;
+  background: #888;
   padding: 16px 0;
   overflow-y: auto;
 `
